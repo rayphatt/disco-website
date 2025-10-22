@@ -37,7 +37,7 @@ export default function Hero() {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="text-xl lg:text-2xl text-gray-200 mb-10 leading-relaxed"
             >
-              Enterprise-grade voice, chat, and email AI that instantly qualifies, demos, and closes deals—so reps can focus on 7-figure deals.
+              Enterprise-grade AI that researches every prospect, instantly qualifies, demos, and closes deals—so reps can focus on 7-figure deals.
             </motion.p>
 
             <motion.div

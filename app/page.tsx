@@ -1,5 +1,6 @@
 import Hero from '@/components/Hero'
 import MultiChannel from '@/components/MultiChannel'
+import IntelligenceSection from '@/components/IntelligenceSection'
 import ProblemSection from '@/components/ProblemSection'
 import WorkflowBuilder from '@/components/WorkflowBuilder'
 import CaseStudy from '@/components/CaseStudy'
@@ -14,6 +15,7 @@ export default function Home() {
     <>
       <Hero />
       <MultiChannel />
+      <IntelligenceSection />
       <ProblemSection />
       <WorkflowBuilder />
       <CaseStudy />

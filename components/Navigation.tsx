@@ -48,6 +48,17 @@ export default function Navigation() {
             Platform
           </a>
           
+          <a
+            href="/intelligence"
+            className={`${
+              isScrolled
+                ? 'text-gray-700 hover:text-disco-purple'
+                : 'text-white/90 hover:text-white'
+            } transition-colors font-medium`}
+          >
+            Intelligence
+          </a>
+          
           {/* Use Cases Dropdown */}
           <div 
             className="relative"

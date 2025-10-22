@@ -16,6 +16,8 @@ export default function Integrations() {
     'Apollo',
     'ZoomInfo',
     'Clearbit',
+    'Sumble',
+    'LinkedIn',
   ]
 
   return (

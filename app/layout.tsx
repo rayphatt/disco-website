@@ -5,7 +5,7 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'Disco - The AI Account Executive',
-  description: 'Enterprise-grade voice, chat, and email AI that instantly qualifies, demos, and closes deals—so reps can focus on enterprise deals.',
+  description: 'Enterprise-grade AI that researches every prospect, instantly qualifies, demos, and closes deals—so reps can focus on 7-figure deals.',
 }
 
 export default function RootLayout({

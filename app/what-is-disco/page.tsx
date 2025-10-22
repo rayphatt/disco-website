@@ -25,7 +25,7 @@ export default function WhatIsDisco() {
             </h1>
             
             <p className="text-xl lg:text-2xl text-white/90 mb-12 leading-relaxed max-w-4xl mx-auto">
-              The AI Account Executive that engages prospects instantly, qualifies with perfect discovery,
+              The AI Account Executive that researches every prospect, engages instantly, qualifies with perfect discovery,
               runs tailored demos, and books meetings — so your reps focus on 7‑figure deals.
             </p>
             
